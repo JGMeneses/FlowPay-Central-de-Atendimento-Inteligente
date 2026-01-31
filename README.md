@@ -8,11 +8,11 @@ Bem-vindo ao projeto **FlowPay**. Esta é uma solução Full Stack completa dese
 
 Para garantir o desacoplamento e seguir as melhores práticas de mercado, o projeto foi dividido em dois repositórios independentes:
 
-### 🎨 [Frontend - Dashboard Operacional](LINK_AQUI_DO_SEU_REPO_FRONT)
+### 🎨 [Frontend - Dashboard Operacional](https://github.com/JGMeneses/flowpay-frontend)
 * **Tecnologias:** Angular 19, RxJS, CSS Moderno (Glassmorphism).
 * **Destaque:** Dashboard reativo com polling adaptativo que elimina a necessidade de refresh, proporcionando uma experiência em tempo real para o operador.
 
-### 🧠 [Backend - API de Gestão & Triagem](LINK_AQUI_DO_SEU_REPO_BACK)
+### 🧠 [Backend - API de Gestão & Triagem](https://github.com/JGMeneses/FlowPay)
 * **Tecnologias:** Java 21, Spring Boot 3, Spring Data JPA, H2 Database.
 * **Destaque:** Motor de triagem automática que classifica chamados por assunto e distribui para especialistas com menor carga de trabalho, respeitando limites operacionais.
 
