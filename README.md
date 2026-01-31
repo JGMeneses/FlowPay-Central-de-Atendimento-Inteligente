@@ -20,8 +20,8 @@ Para garantir o desacoplamento e seguir as melhores práticas de mercado, o proj
 
 ## 🚀 Como testar o ecossistema completo
 
-1. **Inicie o Backend:** Siga as instruções no [Repositório do Backend]([LINK_AQUI_DO_SEU_REPO_BACK](https://github.com/JGMeneses/FlowPay)) para subir a API na porta `8080`.
-2. **Inicie o Frontend:** Siga as instruções no [Repositório do Frontend]([LINK_AQUI_DO_SEU_REPO_FRONT](https://github.com/JGMeneses/flowpay-frontend)) para subir o dashboard na porta `4200`.
+1. **Inicie o Backend:** Siga as instruções no [Repositório do Backend]([https://github.com/JGMeneses/FlowPay]) para subir a API na porta `8080`.
+2. **Inicie o Frontend:** Siga as instruções no [Repositório do Frontend]([https://github.com/JGMeneses/flowpay-frontend]) para subir o dashboard na porta `4200`.
 3. **Integração:** O dashboard consumirá automaticamente os dados da API local.
 
 ---
